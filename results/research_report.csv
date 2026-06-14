@@ -1,0 +1,5 @@
+model,phase,accuracy_pct,acc_drop_vs_fp32,macro_f1,disk_mb,ram_mb,latency_ms,speedup_vs_fp32
+FP32,baseline,88.53,0.0,0.885,8.76,8.66,700.44,1.0
+PTQ_int8,PTQ,85.82,2.71,0.859,2.53,0.0,167.05,4.19
+Mixed,Mixed,87.81,0.72,0.878,2.57,0.07,345.29,2.03
+QAT_int8,QAT,93.1,-4.57,0.931,2.53,0.0,162.73,4.3

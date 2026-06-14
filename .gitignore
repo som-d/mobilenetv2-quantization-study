@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# CIFAR-10 raw data — downloaded automatically by the notebook
+data/cifar-10-batches-py/
+data/cifar-10-python.tar.gz
+data/*.tar.gz
+data/*.zip
+# Keep data/README.md in git
+
+# Model checkpoints — regeneratable by running the notebook
+models/*.pth
+models/*.pt
+models/*.pth.tar
+
+# Output artifacts (results CSV is tracked)
+results/*.tmp
+results/*.png
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Large logs
+*.log

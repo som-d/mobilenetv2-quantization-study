@@ -1,0 +1,9 @@
+# Python 3.12 recommended. For GPU: install torch from https://pytorch.org
+torch>=2.6.0
+torchvision>=0.21.0
+numpy>=2.0
+pandas>=2.0
+matplotlib>=3.8
+scikit-learn>=1.4
+tqdm>=4.66
+ipykernel>=6.29
