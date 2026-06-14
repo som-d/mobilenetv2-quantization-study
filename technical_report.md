@@ -2,7 +2,7 @@
 
 **Author:** Soham Deshmukh
 **Date:** June 2026
-**Code:** [GitHub — github.com/som-d/mobilenetv2-quantization-study](https://github.com/som-d/mobilenetv2-quantization-study)
+**Code:** [GitHub](https://github.com/som-d/mobilenetv2-quantization-study)
 **Environment:** Python 3.12, PyTorch 2.6.0 (CPU), TorchAO (fbgemm)
 
 ---
