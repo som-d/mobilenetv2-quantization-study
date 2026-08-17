@@ -2,9 +2,7 @@
 
 Self-directed study comparing **FP32**, **PTQ (int8)**, **mixed FP32+int8 (FX)**, and **QAT** on MobileNetV2 for CIFAR-10 classification.
 
-**Author:** Soham Deshmukh  
-**Context:** PhD outreach portfolio (edge AI, efficient inference, deployed ML systems)
-
+**Author:** Soham Deshmukh
 ---
 
 ## Results Summary
